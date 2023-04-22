@@ -1,1 +1,1 @@
-ultralytics 8.1.5 add OBB Tracking support (#7731)
+Update mkdocs.yml (#7693)
