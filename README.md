@@ -1,1 +1,1 @@
-Add brain-tumor dataset docs page (#9041)
+docs: update view-results-in-terminal.md (#66)
