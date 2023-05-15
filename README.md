@@ -1,1 +1,1 @@
-Fix cmake requirements for ARM64 (#8589)
+Expand Model method type hinting (#8279)
