@@ -1,1 +1,1 @@
-Add https://youtu.be/96NkhsV-W1U to docs and heatmaps fix (#7944)
+ultralytics 8.1.11 expand OpenVINO INT8 ops for improved mAP (#7516)
