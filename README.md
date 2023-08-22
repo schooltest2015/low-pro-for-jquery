@@ -1,1 +1,1 @@
-ultralytics 8.1.12 new Results.show() and Results.save() (#8166)
+Add OBB models to GITHUB_ASSET_NAMES (#7425)
