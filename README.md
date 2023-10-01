@@ -1,1 +1,1 @@
-Update Colab notebook for YOLOv8.1 (#8660)
+OpenVino 2024.0.0 (#8726)
