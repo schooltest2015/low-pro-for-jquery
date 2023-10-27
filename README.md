@@ -1,1 +1,1 @@
-Improve Coral Edge TPU guide (#8160)
+Clean up unused imgsz (#7771)
