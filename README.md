@@ -1,1 +1,1 @@
-ultralytics 8.1.4 RTDETR TensorBoard graph visualization fix (#7725)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
