@@ -1,1 +1,1 @@
-Update pyproject.toml [tool.pytest.ini_options] (#9259)
+Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
