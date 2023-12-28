@@ -1,1 +1,1 @@
-Fix PNNX ubuntu -> linux bug (#7050)
+Docs partial mdformat improvements (#7378)
