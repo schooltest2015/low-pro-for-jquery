@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+Segment TensorRT batch=3 fix (#7952)
