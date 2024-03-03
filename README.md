@@ -1,1 +1,1 @@
-ultralytics 8.0.233 improve Classify train augmentations (#4546)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
