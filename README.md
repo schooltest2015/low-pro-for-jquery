@@ -1,1 +1,1 @@
-Fix cmake requirements for ARM64 (#8589)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
