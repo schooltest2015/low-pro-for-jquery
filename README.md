@@ -1,1 +1,1 @@
-ultralytics 8.1.1 Docs, Solutions and Export updates (#7545)
+Compress explorer image in dataset/index.md + description added for new segmentation datasets (#7901)
