@@ -1,1 +1,1 @@
-fix non-coco val
+docs: update view-results-in-terminal.md (#66)
