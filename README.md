@@ -1,1 +1,1 @@
-Fix Neural Magic links (#9144)
+Batch inference fixes (#8854)
