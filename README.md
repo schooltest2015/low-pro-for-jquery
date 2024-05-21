@@ -1,1 +1,1 @@
-Batch inference fixes (#8854)
+Add PR Summary step to Ultralytics Actions (#7675)
