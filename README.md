@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+ultralytics 8.1.19 PNNX aarch64 linux fix (#8480)
