@@ -1,1 +1,1 @@
-Pin jax and jaxlib to fix tensorflowjs exports (#6988)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
