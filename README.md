@@ -1,1 +1,1 @@
-Explorer API video https://youtu.be/3VryynorQeo  (#7838)
+Add PaddlePaddle Docs Integrations Page (#8858)
