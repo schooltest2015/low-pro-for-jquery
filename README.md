@@ -1,1 +1,1 @@
-OBB: Fix plot_images (#7592)
+Add Weights & Biases Docs integrations page (#7199)
