@@ -1,1 +1,1 @@
-ultralytics 8.0.229 add model.embed() method (#7098)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
