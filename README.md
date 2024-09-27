@@ -1,1 +1,1 @@
-Python refactorings and simplifications (#7549)
+ultralytics 8.0.224 Counting and Heatmaps updates (#6855)
