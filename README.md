@@ -1,1 +1,1 @@
-Merge pull request #22 from SkalskiP/patch-1
+Update HTTP to HTTPS (#7548)
