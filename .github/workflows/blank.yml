@@ -11,13 +11,18 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
       - name: Update file
         run: |
-          echo "New content" > schooltest2015/low-pro-for-jquery/blob/master/index.php
+          echo "New content" > schooltest2015/low-pro-for-jquery/index.php
+
       - name: Commit changes
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
           git add .
           git commit -m "Update file"
-          git push
+          git push origin main
